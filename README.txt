@@ -7,3 +7,5 @@ No…. I mean a real bad idea !!!  Changing the commit history that may be the b
 One more line
 
 and another
+
+and yet another
